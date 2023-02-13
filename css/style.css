@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+}
+.container {
+    margin: 0 auto;
+    width: 1219px;
+}
+.heading-1 {
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+}
+.example__table {
+    border: 1px black solid;
+    margin: 0 auto;
+}
